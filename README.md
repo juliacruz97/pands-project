@@ -1,6 +1,6 @@
 # pands-project
 #My search was carried out through Google and brought up this information:
-#site:https://pt.wikipedia.org/wiki/ Conjunto_de_dados_flor_Iris
+#site:https://pt.wikipedia.org/wiki/ data_set_flor_Iris
 
 #The Iris flower data set or Fisher's Iris data set is a multivariate data set used and made famous by the British statistician and biologist Ronald Fisher in his 1936.
 
